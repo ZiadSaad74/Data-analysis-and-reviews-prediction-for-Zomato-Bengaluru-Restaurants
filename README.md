@@ -3,6 +3,7 @@
 - The data was wrangled and cleaned with Python with predefined steps, found in (data wrangling steps.txt)
 - The data analysis process contains ( Univariate - Bivariate) analysis with predifend questions, found in (Univarite and Bivariate analysis questions.txt)
 - Used tools: python, pandas, Numpy, seaborn , re and Sklearn
+- Dataset link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
 # Univariate Analysis Conclusion:
 - almost of the restaurants have the option to online order by (58.84%) and (41.16%) haven’t.
