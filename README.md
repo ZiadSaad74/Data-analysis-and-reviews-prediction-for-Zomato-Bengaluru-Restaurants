@@ -5,8 +5,6 @@
 - Used tools: python, pandas, Numpy, seaborn , re and Sklearn
 
 # Univariate Analysis Conclusion:
-
-Univariate analysis conclusion:
 - almost of the restaurants have the option to online order by (58.84%) and (41.16%) haven’t.
 - big percentage of the restaurants haven't the option to book table by (87.54%) and (12.46%) can.
 - The most appeared type of restaurant is delivery then dine out restaurants, the other types are rarely appeared, we can conclude that they are not preferred or liked by people, they focus on delivery and dine out
